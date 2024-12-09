@@ -178,14 +178,18 @@ The full capacity of the lake is 3,300 million ft3 (3.3 Tmc ft or 93446 million 
 
 ```
 
-## OUTPUT
+## OUTPUT :
 
 ![alt text](1.png)
-![alt text](1.png)
+
 ![alt text](2.png)
+
 ![alt text](3.png)
+
 ![alt text](4.png)
+
 ![alt text](5.png)
+
 ![alt text](6.png)
 
 ## RESULT
