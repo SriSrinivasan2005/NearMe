@@ -24,7 +24,7 @@ Write HTML programs for all the regions identified.
 ### STEP 6
 Execute the programs and publish them.
 
-## CODE
+## CODE :
 ```
 map.html
 
